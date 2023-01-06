@@ -1,19 +1,46 @@
 # Create DC Client
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Install
+This is a npm package to easily create a new discord bot. It creates a basic template with everything you need ([Features](#Features) down below).
+## Installation
 
-### github
+Install [create-dc-client](https://www.npmjs.com/package/create-dc-client) with npm
 
-- Clone the projekt and open it in the console.
-- Run `npm install -g ./`
-
-### npm
-
-- Run `npm install -g create-dc-client`
-
-Now you can use this package in every project on your computer.
-
+```bash
+  npm install -g create-dc-client
+```
+    
 ## Usage
 
-- Run `create-dc-client` in a new folder or in your project folder.
-- Follow the instructions
+Open cmd in your project folder or create a new one.
+
+Then run:
+```bash
+create-dc-client
+```
+
+Now just follow the given instructions.
+
+
+## Features
+
+- Optional sharding
+- Event handler
+- SlashCommand handler
+- SubCommand handler
+- Button handler
+- Carousel handler
+- Example commands
+- discord-js v14
+
+
+## Author
+
+- [@ImGajeed76](https://github.com/ImGajeed76)
+
+
+## Contributors
+
+
+![image](https://contrib.rocks/image?repo=ImGajeed76/create-dc-client)
+
