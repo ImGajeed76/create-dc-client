@@ -32,6 +32,7 @@ Now just follow the given instructions.
 - Carousel handler
 - Example commands
 - discord-js v14
+- supports npm, yarn and pnpm
 
 
 ## Author
