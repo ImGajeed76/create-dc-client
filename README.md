@@ -37,7 +37,7 @@ Now just follow the given instructions.
 
 ## Author
 
-- [@ImGajeed76](https://github.com/ImGajeed76)
+- [Oliver Seifert](https://oseifert.ch) ([@ImGajeed76](https://github.com/ImGajeed76))
 
 
 ## Contributors
